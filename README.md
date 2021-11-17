@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gursparsh
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently persuing B.Tech
 
 <!---
 gursparsh/gursparsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
